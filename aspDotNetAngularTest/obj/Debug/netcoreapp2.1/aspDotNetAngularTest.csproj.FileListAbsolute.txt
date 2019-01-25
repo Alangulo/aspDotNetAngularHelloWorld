@@ -1,0 +1,15 @@
+C:\Users\alangulo\source\repos\aspDotNetAngularTest\aspDotNetAngularTest\bin\Debug\netcoreapp2.1\aspDotNetAngularTest.exe
+C:\Users\alangulo\source\repos\aspDotNetAngularTest\aspDotNetAngularTest\obj\Debug\netcoreapp2.1\aspDotNetAngularTest.csprojAssemblyReference.cache
+C:\Users\alangulo\source\repos\aspDotNetAngularTest\aspDotNetAngularTest\obj\Debug\netcoreapp2.1\aspDotNetAngularTest.csproj.CoreCompileInputs.cache
+C:\Users\alangulo\source\repos\aspDotNetAngularTest\aspDotNetAngularTest\obj\Debug\netcoreapp2.1\aspDotNetAngularTest.RazorAssemblyInfo.cache
+C:\Users\alangulo\source\repos\aspDotNetAngularTest\aspDotNetAngularTest\obj\Debug\netcoreapp2.1\aspDotNetAngularTest.RazorAssemblyInfo.cs
+C:\Users\alangulo\source\repos\aspDotNetAngularTest\aspDotNetAngularTest\obj\Debug\netcoreapp2.1\aspDotNetAngularTest.AssemblyInfoInputs.cache
+C:\Users\alangulo\source\repos\aspDotNetAngularTest\aspDotNetAngularTest\obj\Debug\netcoreapp2.1\aspDotNetAngularTest.AssemblyInfo.cs
+C:\Users\alangulo\source\repos\aspDotNetAngularTest\aspDotNetAngularTest\obj\Debug\netcoreapp2.1\aspDotNetAngularTest.RazorTargetAssemblyInfo.cache
+C:\Users\alangulo\source\repos\aspDotNetAngularTest\aspDotNetAngularTest\bin\Debug\netcoreapp2.1\aspDotNetAngularTest.deps.json
+C:\Users\alangulo\source\repos\aspDotNetAngularTest\aspDotNetAngularTest\bin\Debug\netcoreapp2.1\aspDotNetAngularTest.runtimeconfig.json
+C:\Users\alangulo\source\repos\aspDotNetAngularTest\aspDotNetAngularTest\bin\Debug\netcoreapp2.1\aspDotNetAngularTest.runtimeconfig.dev.json
+C:\Users\alangulo\source\repos\aspDotNetAngularTest\aspDotNetAngularTest\bin\Debug\netcoreapp2.1\aspDotNetAngularTest.dll
+C:\Users\alangulo\source\repos\aspDotNetAngularTest\aspDotNetAngularTest\bin\Debug\netcoreapp2.1\aspDotNetAngularTest.pdb
+C:\Users\alangulo\source\repos\aspDotNetAngularTest\aspDotNetAngularTest\obj\Debug\netcoreapp2.1\aspDotNetAngularTest.dll
+C:\Users\alangulo\source\repos\aspDotNetAngularTest\aspDotNetAngularTest\obj\Debug\netcoreapp2.1\aspDotNetAngularTest.pdb
